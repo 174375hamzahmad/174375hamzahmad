@@ -1,6 +1,6 @@
 ### Hi there, I'm HAMZA - 👋
 
-## EAT . SLEEP . CODE
+## EAT . SLEEP . CODE . REPEAT
 
 ## SKILLS
 
