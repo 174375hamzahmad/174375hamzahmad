@@ -1,7 +1,5 @@
 ### Hi there, I'm HAMZA - 👋
 
-## EAT . SLEEP . CODE . REPEAT
-
 ## SKILLS
 
 - 🔭 Programming Languages : C++ , C , JAVA , SQL , PYTHON
